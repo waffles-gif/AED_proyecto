@@ -11,7 +11,7 @@ Es un video animado hecho con [Manim Community](https://www.manim.community/) qu
 
 ## Video demo
 
-▶️ [Ver el video demo](https://LINK_DEL_VIDEO_AQUI) <!-- TODO: reemplazar con el link real (YouTube, Drive, etc.) -->
+▶️ [Ver el video demo en YouTube](https://youtu.be/ldplMvxiCBc)
 
 ## Software requerido
 
