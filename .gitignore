@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Salida generada por Manim
+media/
+
+# IDE
+.idea/
+.DS_Store

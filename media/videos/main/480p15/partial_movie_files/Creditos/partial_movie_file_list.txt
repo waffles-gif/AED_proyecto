@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/tamaraibericogomez/PycharmProjects/AED_proyecto/media/videos/main/480p15/partial_movie_files/Creditos/3766617142_715852037_223132457.mp4'
-file 'file:/Users/tamaraibericogomez/PycharmProjects/AED_proyecto/media/videos/main/480p15/partial_movie_files/Creditos/3614740012_3885184432_2947994467.mp4'
-file 'file:/Users/tamaraibericogomez/PycharmProjects/AED_proyecto/media/videos/main/480p15/partial_movie_files/Creditos/3614740012_4291716292_4093708896.mp4'
-file 'file:/Users/tamaraibericogomez/PycharmProjects/AED_proyecto/media/videos/main/480p15/partial_movie_files/Creditos/3614740012_349589963_906538923.mp4'
-file 'file:/Users/tamaraibericogomez/PycharmProjects/AED_proyecto/media/videos/main/480p15/partial_movie_files/Creditos/3614740012_1495004471_2014409083.mp4'
