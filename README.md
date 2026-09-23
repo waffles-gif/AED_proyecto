@@ -2,7 +2,7 @@
 
 Proyecto del curso **Algoritmos y Estructuras de Datos**.
 
-Es un video animado hecho con [Manim Community](https://www.manim.community/) que explica dos estructuras de datos lineales: el **stack** (pila) y la **queue** (cola). El video muestra paso a paso sus operaciones, compara las dos estructuras lado a lado, explica cómo se implementa una queue con un array circular y termina con una aplicación del stack: verificar si los paréntesis de una expresión están balanceados.
+Es un video animado hecho con [Manim Community](https://www.manim.community/) que explica dos estructuras de datos lineales: el **stack** (pila) y la **queue** (cola). El video muestra paso a paso sus operaciones, compara las dos estructuras lado a lado, explica cómo se implementa una queue con un array circular muestra una aplicación del stack (verificar si los paréntesis de una expresión están balanceados) y termina con una tabla que resume las diferencias entre las dos estructuras.
 
 ### Integrantes
 
@@ -77,7 +77,7 @@ manim -pql main.py VideoCompleto
 
 El video queda en `media/videos/main/480p15/VideoCompleto.mp4`.
 
-También se puede generar una sola sección para revisarla por separado. Las escenas disponibles son `Titulo`, `Stack`, `Queue`, `Comparacion`, `ArrayCircular`, `Parentesis` y `Creditos`. Por ejemplo:
+También se puede generar una sola sección para revisarla por separado. Las escenas disponibles son `Titulo`, `Stack`, `Queue`, `Comparacion`, `ArrayCircular`, `Parentesis`, `Resumen` y `Creditos`. Por ejemplo:
 
 ```bash
 manim -pql main.py Stack
@@ -130,7 +130,7 @@ Así se reutilizan las posiciones que quedaron libres al inicio del array, y tan
 
 ```text
 AED_proyecto/
-├── main.py            # Las 7 secciones del video y la escena VideoCompleto que las une
+├── main.py            # Las 8 secciones del video y la escena VideoCompleto que las une
 ├── utilidades.py      # Colores, textos, datos del proyecto y clases visuales
 │                      # (PilaVisual, ColaVisual, ArregloVisual)
 ├── requirements.txt   # Dependencias de Python
@@ -146,4 +146,5 @@ Secciones del video (en `main.py`):
 4. **Comparación**: stack y queue lado a lado con las mismas operaciones.
 5. **Array circular**: cómo una queue reutiliza las posiciones libres de un array de tamaño fijo.
 6. **Paréntesis balanceados**: aplicación del stack para validar `([]{})`.
-7. **Créditos**.
+7. **Resumen**: tabla comparativa de stack y queue (orden, operaciones, costo y usos comunes).
+8. **Créditos**.
